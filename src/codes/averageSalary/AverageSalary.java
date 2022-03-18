@@ -1,7 +1,7 @@
 package codes.averageSalary;
 
 /**
- * @author Marden Laairoy
+ * @author Laairoy
  * link: https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
  */
 public class AverageSalary {

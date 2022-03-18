@@ -1,5 +1,9 @@
 package codes.twoSumII;
 
+/**
+ * @author Laairoy
+ * link: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+ */
 public class TwoSumII {
     public int[] twoSum(int[] numbers, int target) {
         int[] result = new int[2];

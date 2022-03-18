@@ -1,7 +1,7 @@
 package codes.countOddNumbers;
 
 /**
- * @author Marden Laairoy
+ * @author Laairoy
  * Link: https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/
  */
 public class CountOddNumbers {

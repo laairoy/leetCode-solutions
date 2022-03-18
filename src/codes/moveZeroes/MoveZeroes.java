@@ -1,5 +1,9 @@
 package codes.moveZeroes;
 
+/**
+ * @author Laairoy
+ * link: https://leetcode.com/problems/move-zeroes/
+ */
 public class MoveZeroes {
     public void moveZeroes(int[] nums) {
         int length = nums.length;

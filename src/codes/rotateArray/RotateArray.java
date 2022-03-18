@@ -1,5 +1,9 @@
 package codes.rotateArray;
 
+/**
+ * @author Laairoy
+ * link: https://leetcode.com/problems/rotate-array/
+ */
 public class RotateArray {
     public void rotate(int[] nums, int k) {
         k = k % nums.length;

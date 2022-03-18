@@ -1,11 +1,7 @@
 package codes.firstBadVersion;
 
-import java.util.HashMap;
-import java.util.Map;
-
 /**
- * @author laairoy
- *
+ * @author Laairoy
  * https://leetcode.com/problems/first-bad-version/
  */
 

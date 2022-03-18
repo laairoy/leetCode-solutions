@@ -1,7 +1,9 @@
 package codes.reverseString;
 
-import java.util.Collections;
-
+/**
+ * @author Laairoy
+ * link: https://leetcode.com/problems/reverse-string/
+ */
 public class ReverseString {
     public void reverseString(char[] s){
         int count = s.length - 1;

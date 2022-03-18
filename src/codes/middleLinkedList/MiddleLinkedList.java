@@ -3,6 +3,10 @@ package codes.middleLinkedList;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * @author Laairoy
+ * link: https://leetcode.com/problems/middle-of-the-linked-list/
+ */
 class ListNode {
     int val;
     ListNode next;

@@ -1,5 +1,9 @@
 package codes.searchInsertPosition;
 
+/**
+ * @author Laairoy
+ * link: https://leetcode.com/problems/search-insert-position/
+ */
 public class SearchInsertPosition {
     private static int search(int[] nums, int begin, int end, int target) {
 

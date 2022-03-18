@@ -1,8 +1,7 @@
 package codes.binarySearch;
 
 /**
- * @author laairoy
- *
+ * @author Laairoy
  * https://leetcode.com/problems/binary-search/
  */
 

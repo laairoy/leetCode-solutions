@@ -1,5 +1,9 @@
 package codes.reverseStringIII;
 
+/**
+ * @author Laairoy
+ * link: https://leetcode.com/problems/reverse-words-in-a-string-iii/
+ */
 public class ReverseStringIII {
     public String reverseWords(String s) {
 

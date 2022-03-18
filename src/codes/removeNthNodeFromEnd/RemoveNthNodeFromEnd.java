@@ -3,6 +3,10 @@ package codes.removeNthNodeFromEnd;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * @author Laairoy
+ * link: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+ */
 class ListNode {
     int val;
     ListNode next;
