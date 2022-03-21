@@ -1,5 +1,9 @@
 package codes.signProductArray;
 
+/**
+ * @author Laairoy
+ * link: https://leetcode.com/problems/sign-of-the-product-of-an-array/submissions/
+ */
 public class SignProductArray {
     public int arraySign(int[] nums) {
         int countNegative = 0;
