@@ -6,6 +6,7 @@ package codes.richestCustomerWealth;
  */
 public class RichestCustomerWealth {
     public int maximumWealth(int[][] accounts) {
+        // Option 2
         int max = 0;
 
         for (int[] customer : accounts) {
@@ -15,6 +16,12 @@ public class RichestCustomerWealth {
             }
             if (sum > max) max = sum;
         }
+
         return max;
+        // Option 1 with Stream
+//        return Arrays.stream(accounts)
+//                .map(a -> Arrays.stream(a).sum())
+//                .max(Integer::compare)
+//                .get();
     }
 }
